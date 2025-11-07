@@ -1,6 +1,0 @@
-Excel Project
-
-1. Clean the data
-2. Add column for Age Brackets
-3. Create Pivot Table
-4. Create Dashboard
